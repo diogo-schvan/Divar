@@ -1,0 +1,67 @@
+.container_edicao_usuario {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffff;
+  padding: 20px;
+  margin-left: 1%;
+  margin-right: 4%;
+}
+
+/*FIX ------------------------------------------- */
+
+.form_edicao_usuario {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 84px;
+}
+
+/* Style the label and input */
+
+.form_first_row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.form_first_row label {
+  font-weight: bold;
+}
+
+.form_first_row input {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+/* Style the "Salvar" buttons */
+
+.submit_button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit_button:hover {
+  background-color: #0056b3;
+}
+
+.cancel_button {
+  background-color: #ccc;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cancel_button:hover {
+  background-color: #999;
+}
+
+/* Add a gap between the buttons */
+.buttons .cancel_button {
+  margin-left: 10px;
+}

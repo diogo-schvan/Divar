@@ -1,0 +1,61 @@
+/* Paginacao.module.css */
+.paginacao-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    margin-right: 20px;
+}
+
+.paginacao_button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 5px 20px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.paginacao_button.disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.paginacao_button:hover {
+    background-color: #0056b3;
+}
+
+/* SeletorPaginacao.module.css */
+.seletor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.seletor-select {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.seletor-select select {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.input_form_select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }

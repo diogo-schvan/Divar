@@ -1,0 +1,39 @@
+/* NavBar.module.css */
+.teste {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  flex: 1;
+  text-align: center;
+  max-width: 100px; /* Definindo um tamanho máximo para a logo */
+  margin-left: 1px;
+}
+
+.logo {
+  width: 100%;
+}
+
+.itensContainer {
+  display: flex;
+  align-items: center;
+}
+
+.itens {
+  margin-left: 20px;
+  width: 30px;
+}
+
+/* Adicionar estilos para telas menores (máximo 600px de largura) */
+@media screen and (max-width: 600px) {
+  .logoContainer {
+    max-width: 100px; /* Reduzindo o tamanho máximo da logo em telas pequenas */
+  }
+
+  .itens {
+    margin-left: 10px;
+    width: 30px;
+  }
+}

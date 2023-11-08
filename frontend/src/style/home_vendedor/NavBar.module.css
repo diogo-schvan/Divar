@@ -1,0 +1,32 @@
+/* NavBar.module.css */
+.nav {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  padding: 10px;
+  gap: 20px; /* Ajuste o espaçamento conforme necessário */
+}
+
+.nav>a {
+  margin: 0 10px;
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.nav a:hover {
+  transform: scale(1.1);
+}
+
+/* Adicionando estilos para telas menores (máximo 600px de largura) */
+@media screen and (max-width: 600px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav>a {
+    margin: 5px 0;
+  }
+}

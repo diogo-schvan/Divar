@@ -1,0 +1,25 @@
+
+.catalogo {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.produto {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.3s; /* Adicionando uma transição de 0.3 segundos para o efeito de hover */
+}
+
+.produto:hover {
+  transform: scale(1.05); /* Aumentando o tamanho do produto em 5% no hover */
+}
+
+
+.produto img {
+  max-width: 100%;
+}

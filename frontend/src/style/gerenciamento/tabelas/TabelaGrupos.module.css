@@ -1,0 +1,46 @@
+/* Table.module.css */
+
+/* Style the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+/* Style the table headers */
+.th {
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+}
+
+/* Style the table rows */
+.tr {
+  border-bottom: 1px solid #ddd;
+}
+
+/* Style the group name cell */
+.td1 {
+  font-weight: bold;
+}
+
+/* Style the cities cell */
+.td2 ul {
+  list-style-type: disc;
+  padding: 0 0 0 20px;
+}
+
+/* Style the "Remover" button */
+.button {
+  background-color: #ff5555;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+/* Hover effect for the "Remover" button */
+.button:hover {
+  background-color: #ff3333;
+}

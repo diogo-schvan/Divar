@@ -1,0 +1,177 @@
+[
+    {
+      "id": 1,
+      "product": "Cyberpunk 2077",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 36.49
+    },
+    {
+      "id": 2,
+      "product": "Grand Theft Auto 5",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 21.99
+    },
+    {
+      "id": 3,
+      "product": "Minecraft",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "product": "PUBG",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 5.09
+    },
+    {
+      "id": 5,
+      "product": "FIFA 21",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 17.49
+    },
+    {
+      "id": 6,
+      "product": "Battlefield 5",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 29.35
+    },
+    {
+      "id": 7,
+      "product": "Watch Dogs 2",
+      "category": "brinco",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 18.99
+    },
+    {
+      "id": 8,
+      "product": "Fortnite",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 29.99
+    },
+    {
+      "id": 9,
+      "product": "Call of Duty: Black Ops",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 69.99
+    },
+    {
+      "id": 10,
+      "product": "NBA2K21 Next Generation",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 69.99
+    },
+    {
+      "id": 11,
+      "product": "Spider-Man Miles Morales",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "product": "Resident Evil Village",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 13,
+      "product": "Assassin's Creed Valhalla",
+      "category": "pulseira",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 14,
+      "product": "Animal Crossing",
+      "category": "anel",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 15,
+      "product": "The Legend of Zelda",
+      "category": "anel",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 16,
+      "product": "Stardew Valley",
+      "category": "anel",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 14.99
+    },
+    {
+      "id": 17,
+      "product": "Mario Golf Super Rush",
+      "category": "anel",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 18,
+      "product": "Super Smash Bros",
+      "category": "anel",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 19,
+      "product": "Grand Theft Auto 5",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 29.99
+    },
+    {
+      "id": 20,
+      "product": "Battlefield V",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 39.99
+    },
+    {
+      "id": 21,
+      "product": "Red Dead Redemption 2",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 39.99
+    },
+    {
+      "id": 22,
+      "product": "Flight Simulator 2020",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 23,
+      "product": "Forza Horizon 4",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 59.99
+    },
+    {
+      "id": 24,
+      "product": "Minecraft",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 29.99
+    },
+    {
+      "id": 25,
+      "product": "Rainbow Six Seige",
+      "category": "corrente",
+      "image": "/media/gerenciamento/imagens/logo_divar.png",
+      "price": 7.99
+    }
+  ]

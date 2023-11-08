@@ -1,0 +1,50 @@
+/* CadastroGrupo.module.css */
+.container_cadastro_grupo {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffff;
+  padding: 20px;
+  margin-left: 1%;
+  margin-right: 4%;
+  width: 100%;
+}
+
+/*FIX ------------------------------------------- */
+
+.form_cadastro_produto {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 84px;
+  width: 100%;
+}
+
+/* Style the label and input */
+.form_first_row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.form_first_row span {
+  font-weight: bold;
+}
+
+.input_field {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+/* Style the button */
+.submit_button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit_button:hover {
+  background-color: #0056b3;
+}

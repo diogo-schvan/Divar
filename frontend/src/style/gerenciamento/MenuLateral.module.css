@@ -1,0 +1,24 @@
+.container_menu_lateral {
+  display: flex;
+  margin-left: 4%;
+  padding: 34px 34px 100px 34px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #ffff;
+  align-self: flex-start;
+}
+
+.subtitulos {
+  background-color: #f8f8f8;
+  padding: 20px 190px 10px 12px;
+  font-weight: 400;
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  font-family: Inter;
+  font-size: 12px;
+}
+
+.texto {
+  text-align: center;
+  font-size: 15px;
+}

@@ -1,0 +1,78 @@
+.pesquisa {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.tabelaContainer {
+  border: 1px solid #000; /* Adicione uma borda preta ao contêiner */
+  border-radius: 15px; /* Adicione um raio de borda ao contêiner */
+  overflow: hidden;
+}
+/* Estilos para a tabela */
+.tabela {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tabela th {
+  height: 47px;
+  background: #29263e;
+  font-size: 15px;
+  color: #fff;
+  font-weight: unset;
+}
+
+.tabela td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+/* Estilos para os botões Remover e Editar */
+.remover {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.editar {
+  background-color: #3595fb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.remover:hover {
+  background-color: #d32f2f;
+}
+
+.editar:hover {
+  background-color: #0056b3;
+}
+
+/* Estilo para destacar a linha selecionada */
+.tabela tbody tr:hover {
+  background-color: #f2f2f2;
+}
+
+.container_paginacao {
+  display: flex;
+  flex-direction: row;
+}
+
+.container_pesquisa_seletor{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
